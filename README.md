@@ -34,7 +34,7 @@ submission/
    - Pastikan Anda telah menginstal semua pustaka yang tercantum di `requirements.txt`.
    - Jalankan perintah berikut di terminal:
      ```bash
-     streamlit run dashboard/dashboard.py
+     streamlit run dashboard/goldan.py
      ```
 
 ### Persyaratan
