@@ -7,7 +7,7 @@ Proyek ini merupakan analisis data dari dataset *Bike Sharing* untuk memahami po
 Dalam proyek ini, dilakukan berbagai tahapan analisis data, mulai dari pembersihan data (*data wrangling*), eksplorasi data (*exploratory data analysis*), hingga visualisasi data menggunakan Jupyter Notebook dan pembuatan dashboard interaktif menggunakan Streamlit.
 
 ### Struktur Direktori
-
+```
 submission/
 ├───dashboard/
 │   ├───day.csv
@@ -20,7 +20,7 @@ submission/
 ├───README.md
 ├───requirements.txt
 └───url.txt
-
+```
 
 
 
