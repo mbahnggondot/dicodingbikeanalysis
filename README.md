@@ -45,11 +45,18 @@ submission/
 
 Pastikan Anda memiliki pustaka berikut yang terpasang di lingkungan Python Anda:
 
-- pandas
-- numpy
-- matplotlib
-- seaborn
-- streamlit
+```
+setuptools>=74.1.2
+wheel>=0.44.0
+pillow==9.4.0
+scikit-learn==1.3.1
+Babel==2.12.1
+matplotlib==3.8.0
+numpy==1.25.2
+pandas==2.1.4
+seaborn==0.13.0
+streamlit==1.30.0
+```
 
 ### Kesimpulan
 
