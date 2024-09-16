@@ -32,6 +32,10 @@ submission/
 
 2. **Menjalankan Dashboard dengan Streamlit:**
    - Pastikan Anda telah menginstal semua pustaka yang tercantum di `requirements.txt`.
+     JIKA BELUM menginstall requirements
+      ```
+     pip install -r requirements.txt
+      ```
    - Jalankan perintah berikut di terminal:
      ```bash
      streamlit run dashboard/goldan.py
